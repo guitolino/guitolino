@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi 
 
----
 Just a place where i can learn and grow.
 <!--
 **guitolino/guitolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
